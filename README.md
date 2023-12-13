@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m a student of Chongqing University of Posts and Telecommunications
 <!--
 **llkdd1/llkdd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
